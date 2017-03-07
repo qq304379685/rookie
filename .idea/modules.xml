@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/rookie.iml" filepath="$PROJECT_DIR$/.idea/rookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-core/rookie-core.iml" filepath="$PROJECT_DIR$/rookie-core/rookie-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-model/rookie-model.iml" filepath="$PROJECT_DIR$/rookie-model/rookie-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-parent/rookie-parent.iml" filepath="$PROJECT_DIR$/rookie-parent/rookie-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-persist/rookie-persist.iml" filepath="$PROJECT_DIR$/rookie-persist/rookie-persist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-utils/rookie-utils.iml" filepath="$PROJECT_DIR$/rookie-utils/rookie-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rookie-web/rookie-web.iml" filepath="$PROJECT_DIR$/rookie-web/rookie-web.iml" />
+    </modules>
+  </component>
+</project>
